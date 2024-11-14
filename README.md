@@ -64,7 +64,17 @@ This Text is not Bolded
 [Arewa Data Science Website](https://github.com/arewadataScience/python-programming-fellowship)
 
 
-## Syntax Highlight
+# Table
+
+
+|Name         |Surname      |Department
+|-------------|-------------|-------------|
+|Ahmad        |Balarae      |Socioloy     |
+|Musa         |Sani         |Computer     |
+|Abubakar     |Yusuf        |ICT          |
+
+
+## Code Syntax Highlight
 
 ```python
 print("Hello, my good People!")
