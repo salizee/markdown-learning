@@ -22,6 +22,21 @@ This  repo is to show how to use markdown
 This Text is not Bolded
 
 
-* Italicized 
+# Italicized 
 
  _This is Italicized_
+
+
+ # List
+
+ - Number 1
+ - Number 2
+ - Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ number 1
++ Number 2
++ Number 3
