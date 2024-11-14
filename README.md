@@ -62,3 +62,10 @@ This Text is not Bolded
 
 
 [Arewa Data Science Website](https://github.com/arewadataScience/python-programming-fellowship)
+
+
+# Syntax Highlight
+
+```python
+print("Hello, my good People!")
+```
