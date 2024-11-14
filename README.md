@@ -30,14 +30,21 @@ This Text is not Bolded
  # List
 
  - Number 1
+ - 
     -Nexted 1
+   
     -Nexted 2
+   
     -Nexted 3
+   
  - Number 2
  - Number 3
-     -Nexted 1
-     -Nexted 2
-     -Nexted 3
+   
+    -Nexted 1
+   
+    -Nexted 2
+   
+    -Nexted 3
    
 
 * Number 1
