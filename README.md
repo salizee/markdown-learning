@@ -61,4 +61,4 @@ This Text is not Bolded
 3. Third
 
 
-[Arewa Data Science]{https://github.com/arewadataScience/python-programming-fellowship}
+[Arewa Data Science Website](https://github.com/arewadataScience/python-programming-fellowship)
